@@ -79,4 +79,4 @@ To get started create a new account using your email.
 
 ---
 
-> 💻 Developed with ❤️ by [Yash Tanna](https://github.com/YashTanna)
+> 💻 Developed by [Yash Tanna](https://github.com/YashTanna)
